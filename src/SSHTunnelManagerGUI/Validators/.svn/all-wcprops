@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/36/trunk/src/SSHTunnelManagerGUI/Validators
+END
+IValidatorFunctor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26/trunk/src/SSHTunnelManagerGUI/Validators/IValidatorFunctor.cs
+END
+NewPasswordValidatorFunctor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/36/trunk/src/SSHTunnelManagerGUI/Validators/NewPasswordValidatorFunctor.cs
+END
+Validator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/36/trunk/src/SSHTunnelManagerGUI/Validators/Validator.cs
+END

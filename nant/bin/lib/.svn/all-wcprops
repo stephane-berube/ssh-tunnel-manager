@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/25/trunk/nant/bin/lib
+END
+SourceSafe.Interop.dll
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/25/trunk/nant/bin/lib/SourceSafe.Interop.dll
+END
+Interop.StarTeam.dll
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/25/trunk/nant/bin/lib/Interop.StarTeam.dll
+END
+readme_nantcontrib.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/25/trunk/nant/bin/lib/readme_nantcontrib.txt
+END
+Interop.MsmMergeTypeLib.dll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/25/trunk/nant/bin/lib/Interop.MsmMergeTypeLib.dll
+END
+CollectionGen.dll
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/25/trunk/nant/bin/lib/CollectionGen.dll
+END
+Interop.WindowsInstaller.dll
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/25/trunk/nant/bin/lib/Interop.WindowsInstaller.dll
+END

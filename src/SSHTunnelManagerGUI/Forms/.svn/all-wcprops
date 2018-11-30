@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/50/trunk/src/SSHTunnelManagerGUI/Forms
+END
+OptionsDialog.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/49/trunk/src/SSHTunnelManagerGUI/Forms/OptionsDialog.Designer.cs
+END
+OptionsDialog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/49/trunk/src/SSHTunnelManagerGUI/Forms/OptionsDialog.cs
+END
+TrayForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/36/trunk/src/SSHTunnelManagerGUI/Forms/TrayForm.resx
+END
+StartUpDialog.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/36/trunk/src/SSHTunnelManagerGUI/Forms/StartUpDialog.Designer.cs
+END
+AboutBox.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/36/trunk/src/SSHTunnelManagerGUI/Forms/AboutBox.Designer.cs
+END
+StartUpDialog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/36/trunk/src/SSHTunnelManagerGUI/Forms/StartUpDialog.cs
+END
+AboutBox.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/36/trunk/src/SSHTunnelManagerGUI/Forms/AboutBox.cs
+END
+ProgressDialog.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/36/trunk/src/SSHTunnelManagerGUI/Forms/ProgressDialog.Designer.cs
+END
+MainForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/49/trunk/src/SSHTunnelManagerGUI/Forms/MainForm.resx
+END
+ProgressDialog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/26/trunk/src/SSHTunnelManagerGUI/Forms/ProgressDialog.cs
+END
+OptionsDialog.resx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/49/trunk/src/SSHTunnelManagerGUI/Forms/OptionsDialog.resx
+END
+ChangePasswordDialog.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/36/trunk/src/SSHTunnelManagerGUI/Forms/ChangePasswordDialog.Designer.cs
+END
+ChangePasswordDialog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/26/trunk/src/SSHTunnelManagerGUI/Forms/ChangePasswordDialog.cs
+END
+HostDialog.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/50/trunk/src/SSHTunnelManagerGUI/Forms/HostDialog.Designer.cs
+END
+HostDialog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/50/trunk/src/SSHTunnelManagerGUI/Forms/HostDialog.cs
+END
+StartUpDialog.resx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/36/trunk/src/SSHTunnelManagerGUI/Forms/StartUpDialog.resx
+END
+AboutBox.resx
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/36/trunk/src/SSHTunnelManagerGUI/Forms/AboutBox.resx
+END
+ProgressDialog.resx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/36/trunk/src/SSHTunnelManagerGUI/Forms/ProgressDialog.resx
+END
+TrayForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/49/trunk/src/SSHTunnelManagerGUI/Forms/TrayForm.cs
+END
+ChangePasswordDialog.resx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/36/trunk/src/SSHTunnelManagerGUI/Forms/ChangePasswordDialog.resx
+END
+MainForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/49/trunk/src/SSHTunnelManagerGUI/Forms/MainForm.Designer.cs
+END
+MainForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/50/trunk/src/SSHTunnelManagerGUI/Forms/MainForm.cs
+END
+HostDialog.resx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/50/trunk/src/SSHTunnelManagerGUI/Forms/HostDialog.resx
+END

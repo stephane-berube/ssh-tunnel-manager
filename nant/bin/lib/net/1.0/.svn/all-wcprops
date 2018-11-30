@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/25/trunk/nant/bin/lib/net/1.0
+END
+nunit-console-runner.dll
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/25/trunk/nant/bin/lib/net/1.0/nunit-console-runner.dll
+END
+nunit.core.dll
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/25/trunk/nant/bin/lib/net/1.0/nunit.core.dll
+END
+nunit.util.dll
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/25/trunk/nant/bin/lib/net/1.0/nunit.util.dll
+END
+nunit.framework.dll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/25/trunk/nant/bin/lib/net/1.0/nunit.framework.dll
+END
+nunit-console.exe
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/25/trunk/nant/bin/lib/net/1.0/nunit-console.exe
+END
